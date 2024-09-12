@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.caja1 {
+    height: 50px;
+    background-color: rgb(27, 64, 226);
+}
+
+.caja2 {
+    height: 1800px;
+    background-color: aqua;
+}
+
+.caja3 {
+    height: 900px;
+    background-color: rgb(174, 0, 255);
+}
+
+.caja4 {
+    height: 900px;
+    background-color: palevioletred;
+}
